@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/AnyFood/precache-manifest.2373c8e06e1291060af51fc5476476a8.js"
+  "/AnyFood/precache-manifest.ded4ef1898e50cb273b9f2420a268fcc.js"
 );
 
 workbox.clientsClaim();
