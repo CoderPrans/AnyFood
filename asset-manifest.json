@@ -1,7 +1,7 @@
 {
   "main.css": "/AnyFood/static/css/main.87c06a36.chunk.css",
-  "main.js": "/AnyFood/static/js/main.090073c7.chunk.js",
-  "main.js.map": "/AnyFood/static/js/main.090073c7.chunk.js.map",
+  "main.js": "/AnyFood/static/js/main.ee52144e.chunk.js",
+  "main.js.map": "/AnyFood/static/js/main.ee52144e.chunk.js.map",
   "static/js/1.35011d56.chunk.js": "/AnyFood/static/js/1.35011d56.chunk.js",
   "static/js/1.35011d56.chunk.js.map": "/AnyFood/static/js/1.35011d56.chunk.js.map",
   "runtime~main.js": "/AnyFood/static/js/runtime~main.bc184371.js",
@@ -10,6 +10,6 @@
   "static/media/Zomato_company_logo.png": "/AnyFood/static/media/Zomato_company_logo.c9708061.png",
   "static/media/Rolling-1s-200px.svg": "/AnyFood/static/media/Rolling-1s-200px.0e30a1f2.svg",
   "index.html": "/AnyFood/index.html",
-  "precache-manifest.ded4ef1898e50cb273b9f2420a268fcc.js": "/AnyFood/precache-manifest.ded4ef1898e50cb273b9f2420a268fcc.js",
+  "precache-manifest.801486355b9616f6bb14a4eb3dbd820b.js": "/AnyFood/precache-manifest.801486355b9616f6bb14a4eb3dbd820b.js",
   "service-worker.js": "/AnyFood/service-worker.js"
 }

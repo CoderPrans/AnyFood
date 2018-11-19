@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/AnyFood/static/js/runtime~main.bc184371.js"
   },
   {
-    "revision": "090073c79652f21235b1",
-    "url": "/AnyFood/static/js/main.090073c7.chunk.js"
+    "revision": "ee52144e948025d556d0",
+    "url": "/AnyFood/static/js/main.ee52144e.chunk.js"
   },
   {
     "revision": "35011d562c0bdf13276a",
     "url": "/AnyFood/static/js/1.35011d56.chunk.js"
   },
   {
-    "revision": "090073c79652f21235b1",
+    "revision": "ee52144e948025d556d0",
     "url": "/AnyFood/static/css/main.87c06a36.chunk.css"
   },
   {
-    "revision": "328c79ba85910755d1a3ba283c06d430",
+    "revision": "dffbe08d741fe415b7056ef944198751",
     "url": "/AnyFood/index.html"
   }
 ];
